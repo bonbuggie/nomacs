@@ -19,29 +19,30 @@
 2. Open settings <kbd>(Ctrl+Shift+P)</kbd>
 3. Color pick or copy and paste the colors of desired theme
 
-![Rosé Pine](https://rose-pine-images.vercel.app/nomacs.png?theme=default)
+
 ### Rosé Pine Color Settings
-```ini
-Icon Color: #908CAA
-Background Color: #191724
-Fullscreen Color: #191724
-```
+| Setting | Color | Hex Color Code |
+| - | - |  - |
+| Icon Color | <img valign='middle' src='https://readme-swatches.vercel.app/908CAA'/> | 908CAA |
+Background Color | <img valign='middle' src='https://readme-swatches.vercel.app/191724'/> | 191724 |
+Fullscreen Color | <img valign='middle' src='https://readme-swatches.vercel.app/191724'/> | 191724 |
 
-![Rosé Pine Moon](https://rose-pine-images.vercel.app/nomacs.png?theme=moon)
+
 ### Rosé Pine Moon Color Settings
-```ini
-Icon Color: #908CAA
-Background Color: #232136
-Fullscreen Color: #232136
-```
+| Setting | Color | Hex Color Code |
+| - | - |  - |
+| Icon Color | <img valign='middle' src='https://readme-swatches.vercel.app/908CAA'/> | 908CAA |
+Background Color | <img valign='middle' src='https://readme-swatches.vercel.app/232136'/> | 232136 |
+Fullscreen Color | <img valign='middle' src='https://readme-swatches.vercel.app/232136'/> | 232136 |
 
-![Rosé Pine Dawn](https://rose-pine-images.vercel.app/nomacs.png?theme=dawn)
+
 ### Rosé Pine Dawn Color Settings
-```ini
-Icon Color: #797593
-Background Color: #faf4ed
-Fullscreen Color: #faf4ed
-```
+| Setting | Color | Hex Color Code |
+| - | - |  - |
+| Icon Color | <img valign='middle' src='https://readme-swatches.vercel.app/797593'/> | 797593 |
+Background Color | <img valign='middle' src='https://readme-swatches.vercel.app/faf4ed'/> | faf4ed |
+Fullscreen Color | <img valign='middle' src='https://readme-swatches.vercel.app/faf4ed'/> | faf4ed |
+
 ___
 
 # Import Settings Method
@@ -56,12 +57,15 @@ Tip: select "System" in Color Settings for better theme application
 ___
 
 ## Gallery
+![Rosé Pine](https://rose-pine-images.vercel.app/nomacs.png?theme=default)
 ![Rosé Pine Preview](/srcs/previews/rosé-pine-preview.png)
 ![Rosé Pine Color Settings](/srcs/rosé-pine-color-settings.png)
 
+![Rosé Pine Moon](https://rose-pine-images.vercel.app/nomacs.png?theme=moon)
 ![Rosé Pine Moon Preview](/srcs/previews/rosé-pine-moon-preview.png)
 ![Rosé Pine Moon Color Settings](/srcs/rosé-pine-moon-color-settings.png)
 
+![Rosé Pine Dawn](https://rose-pine-images.vercel.app/nomacs.png?theme=dawn)
 ![Rosé Pine Dawn Preview](/srcs/previews/rosé-pine-dawn-preview.png)
 ![Rosé Pine Dawn Color Settings](/srcs/rosé-pine-dawn-color-settings.png)
 ___
