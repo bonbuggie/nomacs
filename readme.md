@@ -34,17 +34,24 @@
 - Background Color: #faf4ed
 - Fullscreen Color: #faf4ed
 
+___
+
 ### Import Settings Method
 #### **Important Notice:** *will not preserve your previous settings! **WILL WIPE ALL DATA!***
 
 1. Open nomacs to access settings (Ctrl+Shift+P)
 2. Import Setting > select downloaded theme
 3. Theme will be applied after quiting nomacs
+
 Tip: select "System" in Color Settings for better theme application
+
+___
 
 ## Gallery
 
 ![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+
+___
 
 ## Thanks to
 
