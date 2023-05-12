@@ -56,21 +56,21 @@ ___
 
 ## Gallery
 ![Rosé Pine](https://rose-pine-images.vercel.app/nomacs.png?theme=default)
-![Rosé Pine Preview](/srcs/previews/rosé-pine-preview.png)
-![Rosé Pine Color Settings](/srcs/rosé-pine-color-settings.png)
+![Rosé Pine Preview](/screenshots/previews/rosé-pine-preview.png)
+![Rosé Pine Color Settings](/screenshots/rosé-pine-color-settings.png)
 
 ___
 
 ![Rosé Pine Moon](https://rose-pine-images.vercel.app/nomacs.png?theme=moon)
-![Rosé Pine Moon Preview](/srcs/previews/rosé-pine-moon-preview.png)
-![Rosé Pine Moon Color Settings](/srcs/rosé-pine-moon-color-settings.png)
+![Rosé Pine Moon Preview](/screenshots/previews/rosé-pine-moon-preview.png)
+![Rosé Pine Moon Color Settings](/screenshots/rosé-pine-moon-color-settings.png)
 
 ___
 
 
 ![Rosé Pine Dawn](https://rose-pine-images.vercel.app/nomacs.png?theme=dawn)
-![Rosé Pine Dawn Preview](/srcs/previews/rosé-pine-dawn-preview.png)
-![Rosé Pine Dawn Color Settings](/srcs/rosé-pine-dawn-color-settings.png)
+![Rosé Pine Dawn Preview](/screenshots/previews/rosé-pine-dawn-preview.png)
+![Rosé Pine Dawn Color Settings](/screenshots/rosé-pine-dawn-color-settings.png)
 ___
 
 ## Thanks to
