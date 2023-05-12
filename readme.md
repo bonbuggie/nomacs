@@ -13,22 +13,25 @@
 
 ## Usage
 
-### Color Pick/Copy & Paste Method
+# Color Pick/Copy & Paste Method
 
 1. Open nomacs
 2. Open settings (Ctrl+Shift+P)
 3. Color pick or copy and paste the palette colors of desired theme
 
+![Rosé Pine](https://rose-pine-images.vercel.app/nomacs.png?theme=default)
 ### Rosé Pine Color Settings
 - Icon Color: #908CAA
 - Background Color: #191724
 - Fullscreen Color: #191724
 
+![Rosé Pine Moon](https://rose-pine-images.vercel.app/nomacs.png?theme=moon)
 ### Rosé Pine Moon Color Settings
 - Icon Color: #908CAA
 - Background Color: #232136
 - Fullscreen Color: #232136
 
+![Rosé Pine Dawn](https://rose-pine-images.vercel.app/nomacs.png?theme=dawn)
 ### Rosé Pine Dawn Color Settings
 - Icon Color: #797593
 - Background Color: #faf4ed
@@ -36,7 +39,7 @@
 
 ___
 
-### Import Settings Method
+# Import Settings Method
 #### **Important Notice:** *will not preserve your previous settings! **WILL WIPE ALL DATA!***
 
 1. Open nomacs to access settings (Ctrl+Shift+P)
@@ -56,7 +59,3 @@ ___
 ## Thanks to
 
 - [bonbuggie](https://github.com/<bonbuggie>)
-
-<p align="center">
-<img src="https://rose-pine-images.vercel.app/nomacs.png?theme=default" />
-    </p>
