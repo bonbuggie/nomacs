@@ -56,9 +56,14 @@ Tip: select "System" in Color Settings for better theme application
 ___
 
 ## Gallery
+![Rosé Pine Preview](/srcs/previews/rosé-pine-preview.png)
+![Rosé Pine Color Settings](/srcs/rosé-pine-color-settings.png)
 
-![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+![Rosé Pine Moon Preview](/srcs/previews/rosé-pine-moon-preview.png)
+![Rosé Pine Moon Color Settings](/srcs/rosé-pine-moon-color-settings.png)
 
+![Rosé Pine Dawn Preview](/srcs/previews/rosé-pine-dawn-preview.png)
+![Rosé Pine Dawn Color Settings](/srcs/rosé-pine-dawn-color-settings.png)
 ___
 
 ## Thanks to
