@@ -55,16 +55,16 @@ ___
 
 ## Gallery
 ![Rosé Pine](https://rose-pine-images.vercel.app/nomacs.png?theme=default)
-![Rosé Pine Preview](/screenshots/previews/rosé-pine-preview.png)
-![Rosé Pine Color Settings](/screenshots/rosé-pine-color-settings.png)
+![Rosé Pine Preview](https://user-images.githubusercontent.com/81865850/238031021-81a892e6-b4ab-4739-bc4b-d9fe80bb663c.png)
+![Rosé Pine Color Settings](https://user-images.githubusercontent.com/81865850/238030992-a321801a-43cc-42cb-8ceb-05406db37ff3.png)
 ___
 ![Rosé Pine Moon](https://rose-pine-images.vercel.app/nomacs.png?theme=moon)
-![Rosé Pine Moon Preview](/screenshots/previews/rosé-pine-moon-preview.png)
-![Rosé Pine Moon Color Settings](/screenshots/rosé-pine-moon-color-settings.png)
+![Rosé Pine Moon Preview](https://user-images.githubusercontent.com/81865850/238031019-1f55ca29-ca1b-4535-a336-0676d43e8838.png)
+![Rosé Pine Moon Color Settings](https://user-images.githubusercontent.com/81865850/238031015-2d70a224-dd27-47d0-805e-c1e5d7f5dbe8.png)
 ___
 ![Rosé Pine Dawn](https://rose-pine-images.vercel.app/nomacs.png?theme=dawn)
-![Rosé Pine Dawn Preview](/screenshots/previews/rosé-pine-dawn-preview.png)
-![Rosé Pine Dawn Color Settings](/screenshots/rosé-pine-dawn-color-settings.png)
+![Rosé Pine Dawn Preview](https://user-images.githubusercontent.com/81865850/238031009-d3cff3bd-1757-4de8-bd11-b4d82ad799f1.png)
+![Rosé Pine Dawn Color Settings](https://user-images.githubusercontent.com/81865850/238031003-260fc4c8-7659-4391-98bb-dcf3c8e5a686.png)
 ___
 
 ## Thanks to
