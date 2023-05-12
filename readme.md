@@ -26,16 +26,14 @@
 | Icon Color | <img valign='middle' src='https://readme-swatches.vercel.app/908CAA'/> | 908CAA |
 Background Color | <img valign='middle' src='https://readme-swatches.vercel.app/191724'/> | 191724 |
 Fullscreen Color | <img valign='middle' src='https://readme-swatches.vercel.app/191724'/> | 191724 |
-
-
+___
 ### Rosé Pine Moon Color Settings
 | Setting | Color | Hex Color Code |
 | - | - |  - |
 | Icon Color | <img valign='middle' src='https://readme-swatches.vercel.app/908CAA'/> | 908CAA |
 Background Color | <img valign='middle' src='https://readme-swatches.vercel.app/232136'/> | 232136 |
 Fullscreen Color | <img valign='middle' src='https://readme-swatches.vercel.app/232136'/> | 232136 |
-
-
+___
 ### Rosé Pine Dawn Color Settings
 | Setting | Color | Hex Color Code |
 | - | - |  - |
@@ -61,9 +59,14 @@ ___
 ![Rosé Pine Preview](/srcs/previews/rosé-pine-preview.png)
 ![Rosé Pine Color Settings](/srcs/rosé-pine-color-settings.png)
 
+___
+
 ![Rosé Pine Moon](https://rose-pine-images.vercel.app/nomacs.png?theme=moon)
 ![Rosé Pine Moon Preview](/srcs/previews/rosé-pine-moon-preview.png)
 ![Rosé Pine Moon Color Settings](/srcs/rosé-pine-moon-color-settings.png)
+
+___
+
 
 ![Rosé Pine Dawn](https://rose-pine-images.vercel.app/nomacs.png?theme=dawn)
 ![Rosé Pine Dawn Preview](/srcs/previews/rosé-pine-dawn-preview.png)
