@@ -50,24 +50,18 @@ ___
 2. Import Setting > select downloaded theme, e.g. <kbd>rose-pine.ini</kbd>
 3. Theme will be applied after restarting nomacs
 
-Tip: select "System" in Color Settings for better theme application
-
+_Tip: select "System" in Color Settings so nomacs can follow your system theme_
 ___
 
 ## Gallery
 ![Rosé Pine](https://rose-pine-images.vercel.app/nomacs.png?theme=default)
 ![Rosé Pine Preview](/screenshots/previews/rosé-pine-preview.png)
 ![Rosé Pine Color Settings](/screenshots/rosé-pine-color-settings.png)
-
 ___
-
 ![Rosé Pine Moon](https://rose-pine-images.vercel.app/nomacs.png?theme=moon)
 ![Rosé Pine Moon Preview](/screenshots/previews/rosé-pine-moon-preview.png)
 ![Rosé Pine Moon Color Settings](/screenshots/rosé-pine-moon-color-settings.png)
-
 ___
-
-
 ![Rosé Pine Dawn](https://rose-pine-images.vercel.app/nomacs.png?theme=dawn)
 ![Rosé Pine Dawn Preview](/screenshots/previews/rosé-pine-dawn-preview.png)
 ![Rosé Pine Dawn Color Settings](/screenshots/rosé-pine-dawn-color-settings.png)
